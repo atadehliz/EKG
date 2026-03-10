@@ -2,4 +2,5 @@
 !*/
 !*.py
 !*.ico
-!.gitignore
+!.gitignor
+!*.exe
